@@ -14,3 +14,7 @@ The Python password generator ensures security and convenience for users by offe
 - Install any python / Установите любой питон
 - Install passwordgenerator.py / Установите passwordgenerator.py
 - Run passwordgenerator.py and enjoy the password generator / Запустите passwordgenerator.py и наслаждайтесь генератором паролей
+
+# Languages / Языки
+## For now, only Russian language is available
+## Пока-что доступен только русский язык
